@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.0.4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="hideFileIcons" value="true" />
+  </component>
+</application>
