@@ -34,6 +34,7 @@
     <variable name="VAR1" expression="" defaultValue="&quot;FileName&quot;" alwaysStopAt="true" />
     <variable name="VAR2" expression="" defaultValue="&quot;normal&quot;" alwaysStopAt="true" />
     <variable name="VAR3" expression="" defaultValue="&quot;normal&quot;" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="@kf" value="@-webkit-keyframes $NAME$ {&#10;  $FROM$ { $FROM_BODY$ }&#10; $TO${ $TO_BODY$ }  $OTHER_RULESETS$&#10;}&#10;                    @-o-keyframes $NAME$ {&#10;  $FROM$ { $FROM_BODY$ }&#10;  $TO$ { $TO_BODY$ }  $OTHER_RULESETS$&#10;}&#10;                    @-moz-keyframes $NAME$ {&#10;  $FROM$ { $FROM_BODY$ }&#10;  $TO$ { $TO_BODY$ }  $OTHER_RULESETS$&#10;}&#10;                    @keyframes $NAME$ {&#10;  $FROM$ { $FROM_BODY$ }&#10;  $TO$ { $TO_BODY$ }  $OTHER_RULESETS$&#10;}" description="keyframes" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="&quot;identifier&quot;" alwaysStopAt="true" />
@@ -1618,7 +1619,9 @@
   <template name="lh" value="line-height: $END$;" description="line-height:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="lg" value="background-image: linear-gradient($END$);" description="background-image: linear-gradient(...);" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="lg" value="background-image: linear-gradient($END$);" description="background-image: linear-gradient(...);" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="whs" value="white-space: $END$;" description="white-space:...;" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
