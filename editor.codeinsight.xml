@@ -5,5 +5,6 @@
   <component name="CodeInsightSettings">
     <option name="SMART_END_ACTION" value="false" />
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
 </application>
