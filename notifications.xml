@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
     <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
