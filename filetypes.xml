@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="cypress" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
