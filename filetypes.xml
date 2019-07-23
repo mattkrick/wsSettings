@@ -4,9 +4,9 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="packages" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="cypress" type="PLAIN_TEXT" />
+      <mapping pattern="packages" type="PLAIN_TEXT" />
       <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
